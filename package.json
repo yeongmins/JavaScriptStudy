@@ -1,0 +1,14 @@
+{
+  "name": "study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "parcel ./index.html",
+    "build": "parcel build ./index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
