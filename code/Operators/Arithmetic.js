@@ -6,6 +6,8 @@ console.log(3 * 4)
 console.log(10 / 2)
 console.log(7 % 5)
 
+// (1 + 2) / + = 연산자, 1 2 = 피연산자
+
 function isEven(num) {
     return num % 2 === 0
 }
