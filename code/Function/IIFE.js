@@ -4,3 +4,4 @@
     console.log(a.innerWidth)
     console.log(b.body)
 })(window, document)
+
